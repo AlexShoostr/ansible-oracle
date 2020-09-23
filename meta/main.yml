@@ -1,0 +1,10 @@
+galaxy_info:
+  role_name: Oracle
+  author: Alex Shoostr
+  description: Install Oracle Instant Client
+  company: Sofit
+  license: license (GPLv2, CC-BY, etc)
+
+  min_ansible_version: 2.9
+  galaxy_tags: []
+dependencies: []
